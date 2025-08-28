@@ -326,3 +326,10 @@ MIT (proposed). Replace with your preferred license before publishing.
 ## Acknowledgments
 
 * Inspiration: classic D20 itemization and Godot’s straightforward `res://` resource pipeline.
+
+---
+
+## License
+- Code: MIT (see LICENSE)
+- Data in `assets/data/`: CC0-1.0 (see LICENSE-DATA)
+- Artwork (if any): licensed separately (add attributions or keep All Rights Reserved)
